@@ -5,7 +5,7 @@
  اترك downloadUrl فارغًا حتى تجهّز الملف.
 */
 window.SITE_CONFIG = {
-  telegramUrl: "https://t.me/YOUR_CHANNEL",
+  telegramUrl: "https://t.me/BLACK2000MOD",
   apps: [
     {
       id: "app-001",
